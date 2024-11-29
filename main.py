@@ -1,2 +1,1 @@
-def main():
-    print('GIT SUCCESSFUL WORKING')
+print('My first git-repo')
